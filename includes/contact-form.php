@@ -183,7 +183,3 @@ function handle_inquery($data)
     return new WP_Rest_Response('Message was sent successfully', 200);
 
 }
-
-// step:1 -> 1.49.43
-
-// step:2 -> 1.53.00
